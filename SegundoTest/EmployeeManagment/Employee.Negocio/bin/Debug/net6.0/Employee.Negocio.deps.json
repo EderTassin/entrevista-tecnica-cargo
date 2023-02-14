@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Employee.Negocio/1.0.0": {
+        "dependencies": {
+          "Employee.DAO": "1.0.0",
+          "Employee.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Employee.Negocio.dll": {}
+        }
+      },
+      "Employee.DAO/1.0.0": {
+        "dependencies": {
+          "Employee.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Employee.DAO.dll": {}
+        }
+      },
+      "Employee.DTO/1.0.0": {
+        "runtime": {
+          "Employee.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.DAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

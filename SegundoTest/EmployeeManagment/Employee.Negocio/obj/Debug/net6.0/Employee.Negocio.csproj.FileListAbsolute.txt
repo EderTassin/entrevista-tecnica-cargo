@@ -1,0 +1,17 @@
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\bin\Debug\net6.0\Employee.Negocio.deps.json
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\bin\Debug\net6.0\Employee.Negocio.dll
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\bin\Debug\net6.0\Employee.Negocio.pdb
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\bin\Debug\net6.0\Employee.DAO.dll
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\bin\Debug\net6.0\Employee.DTO.dll
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\bin\Debug\net6.0\Employee.DAO.pdb
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\bin\Debug\net6.0\Employee.DTO.pdb
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\Employee.Negocio.csproj.AssemblyReference.cache
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\Employee.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\Employee.Negocio.AssemblyInfoInputs.cache
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\Employee.Negocio.AssemblyInfo.cs
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\Employee.Negocio.csproj.CoreCompileInputs.cache
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\Employee.Negocio.csproj.CopyComplete
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\Employee.Negocio.dll
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\refint\Employee.Negocio.dll
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\Employee.Negocio.pdb
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Negocio\obj\Debug\net6.0\ref\Employee.Negocio.dll

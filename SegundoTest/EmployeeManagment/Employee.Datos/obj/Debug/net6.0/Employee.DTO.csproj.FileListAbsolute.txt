@@ -1,0 +1,12 @@
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\bin\Debug\net6.0\Employee.DTO.deps.json
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\bin\Debug\net6.0\Employee.DTO.dll
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\bin\Debug\net6.0\Employee.DTO.pdb
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\Employee.DTO.csproj.AssemblyReference.cache
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\Employee.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\Employee.DTO.AssemblyInfoInputs.cache
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\Employee.DTO.AssemblyInfo.cs
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\Employee.DTO.csproj.CoreCompileInputs.cache
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\Employee.DTO.dll
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\refint\Employee.DTO.dll
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\Employee.DTO.pdb
+D:\Users\Edert\GitHub\Repositories\EntrevistaTecnica\EmployeeManagment\Employee.Datos\obj\Debug\net6.0\ref\Employee.DTO.dll
